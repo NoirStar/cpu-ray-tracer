@@ -1,0 +1,27 @@
+# Build
+build/
+out/
+cmake-build-*/
+
+# Output files
+*.ppm
+*.png
+*.jpg
+*.bmp
+
+# IDE
+.vs/
+*.vcxproj.user
+CMakeSettings.json
+
+# Compiled
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
